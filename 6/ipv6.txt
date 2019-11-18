@@ -1,0 +1,2 @@
+Netid State   Recv-Q  Send-Q     Local Address:Port          Peer Address:Port  
+icmp6 UNCONN  0       0                      *:ipv6-icmp                *:*     
